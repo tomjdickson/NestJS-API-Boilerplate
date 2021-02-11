@@ -4,16 +4,20 @@ Each of my projects are a little different with their implementations of these f
 my hope is that this also becomes useful for others facing similar problems.
 
 ## Nestjs
-nestjs is a progressive node.js framework for building efficient and scalable server-side applications using typescript and is heavily inspired by angular.
+Nestjs is a progressive node.js framework for building efficient and scalable server-side applications using typescript and is heavily inspired by angular.
 [read more](https://docs.nestjs.com).
 
 ## Keycloak 
-keycloak is an open source identity and access management solution.
+Keycloak is an open source identity and access management solution.
 [read more](https://www.keycloak.org).
 
 ## MongoDB
-mongodb is an open-source cross-platform nosql database.
-[read more](https://www.mongodb.com).
+MongoDB is an open-source cross-platform nosql database.
+[Read More](https://www.mongodb.com).
+
+## Docker
+Keycloak and MongoDB when launched via this app are hosted inside a docker container. This requires you to have docker installed on your machine.
+
 
 # Getting Started
 
